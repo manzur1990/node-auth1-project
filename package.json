@@ -1,0 +1,26 @@
+{
+  "name": "node-auth1-project",
+  "version": "1.0.0",
+  "description": "## Topics",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manzur1990/node-auth1-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manzur1990/node-auth1-project/issues"
+  },
+  "homepage": "https://github.com/manzur1990/node-auth1-project#readme",
+  "dependencies": {
+    "gitignore-command": "^0.3.1",
+    "knex": "^0.21.5",
+    "sqlite3": "^5.0.0"
+  }
+}
